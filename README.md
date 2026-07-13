@@ -43,3 +43,12 @@ This project was built using an **AI-assisted development workflow (Vibe Coding)
 - 🛑 Creating pattern-matching algorithms for cybersecurity threat detection.
 - ⚡ Managing stateful real-time connections over WebSockets safely.
 - 🤖 Mastering the art of AI direction, prompt engineering, and architectural planning.
+- ## Project Review & Screenshots
+<img width="1358" height="3599" alt="screencapture-127-0-0-1-5000-2026-06-28-20_13_13" src="https://github.com/user-attachments/assets/08f59cba-e995-4334-9fb3-eb70923a596d" />
+<img width="1358" height="710" alt="screencapture-127-0-0-1-5000-login-2026-06-28-20_13_58" src="https://github.com/user-attachments/assets/07baa07d-ab92-46db-a45b-7471673f9137" />
+<img width="1358" height="1856" alt="screencapture-127-0-0-1-5000-dashboard-2026-06-28-20_15_27" src="https://github.com/user-attachments/assets/0f31fbda-1836-4655-9ed6-268bfce3390c" />
+<img width="1358" height="1112" alt="screencapture-127-0-0-1-5000-firewall-2026-06-28-20_16_09" src="https://github.com/user-attachments/assets/6e576010-1391-4057-9723-4975abe08084" />
+<img width="1358" height="1106" alt="screencapture-127-0-0-1-5000-threat-detection-2026-06-28-20_16_35" src="https://github.com/user-attachments/assets/8743dd64-1ca3-454e-a7bf-37034a8fede7" />
+
+
+
